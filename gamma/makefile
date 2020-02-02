@@ -20,3 +20,4 @@ leonardo-firm:
 
 clean:
 	rm -r $(FIRMWARE_DIR)
+

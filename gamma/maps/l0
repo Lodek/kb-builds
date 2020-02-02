@@ -12,7 +12,7 @@
 -
 =
 backspc
-\0
+del
 tab
 q
 w
@@ -28,7 +28,7 @@ p
 ]
 ret
 \0
-// hold esc ctrl
+// dth esc ctrl C__esc
 a
 s
 d
@@ -56,14 +56,14 @@ m
 /
 shift
 up
-l2
+toggle(l2)
 l4
 gui
 alt
 spc
 spc
 spc
-\0
+menu
 ralt
 \0
 left
