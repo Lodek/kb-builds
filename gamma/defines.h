@@ -5,8 +5,8 @@
 #define RETAP_DELAY 500
 
 //csv notation
-#define OUTPUT_PINS A0,A1,A2,A3,0,1,14,15
-#define INPUT_PINS  10,6,7,8,9,2,3,4,16,5
+#define OUTPUT_PINS A0,A1,A2,A3,0,1,2,15
+#define INPUT_PINS  10,6,7,8,9,14,3,4,16,5
 
 #define OUTPUT_OFF HIGH
 #define OUTPUT_ON LOW

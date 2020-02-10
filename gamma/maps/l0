@@ -28,7 +28,7 @@ p
 ]
 ret
 \0
-// dth esc ctrl C__esc
+// hold esc ctrl
 a
 s
 d
@@ -63,9 +63,9 @@ alt
 spc
 spc
 spc
+ctrl
 menu
 ralt
-\0
 left
 down
 right
